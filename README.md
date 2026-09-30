@@ -14,3 +14,5 @@ Open `good.html` and `bad.html` in a browser. Resize the window to compare the l
 
 ## Submission
 The ZIP will be uploaded to D2L as well as my personal Git repository. You can access `njonge_01` through my username on GitHub.
+
+Extra: 2nd file iteration; the first file got corrupted
